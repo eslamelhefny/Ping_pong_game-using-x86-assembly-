@@ -12,9 +12,11 @@ then there is 3 option
 2- chat mode <br/>
 3- exit</p>
 <h2>  Screem shots </h2>
-<img src ="pictures\1.png"/>
 <img src ="pictures\2.png"/>
 <img src ="pictures\3.png"/>
 <img src ="pictures\4.png"/>
+<img src ="pictures\6.png"/>
+<img src ="pictures\7.png"/>
+<img src ="pictures\8.png"/>
 <h2> Demo</h2>
 <img src ="pictures\5.gif"/>
